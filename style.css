@@ -1,5 +1,5 @@
 body{
-    background-color: rgb(148, 148, 248);
+    background-color: rgb(83, 83, 255);
 }
 
 main{
@@ -21,9 +21,9 @@ img{
 
 hr{
     height: 2px;
-    background-color: rgb(148, 148, 248);
+    background-color: rgb(83, 83, 255);
 }
 
 h1, h2,h3, h4, h5, h6{
-    color: rgb(148, 148, 248);
+    color: rgb(83, 83, 255);
 }
